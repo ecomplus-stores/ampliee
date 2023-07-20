@@ -26,13 +26,13 @@
     </url>
   
     <url>
-      <loc>https://ampliee.netlify.app/pages/faq</loc>
+      <loc>https://ampliee.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://ampliee.netlify.app/pages/entrega</loc>
+      <loc>https://ampliee.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
